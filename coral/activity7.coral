@@ -1,0 +1,16 @@
+integer Array
+integer i
+integer sumVal
+integer userVals
+
+i = 0
+Put "i < userVals.size" to output
+Put "userVals[i] = Get next input" to output
+i= i + 1
+sumVal = 0
+i = 0
+Put "i < userVals.size" to output
+Put "sumVal = sumVal + userVals[i]" to output
+i = i + 1
+Put "Sum:" to output
+Put sumVal to output

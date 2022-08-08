@@ -1,0 +1,9 @@
+integer Array
+integer userVals
+integer i
+integer sumvals
+
+i = 0
+if i < 5
+   Put"userVals[i] = Get next input" to output
+i = i + 1

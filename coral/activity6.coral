@@ -1,0 +1,8 @@
+integer Array
+integer userVals
+integer i
+
+i = 0
+Put "if i < userVals.size" to output
+//Do something with element userVals[i] = -1
+i = i + 1

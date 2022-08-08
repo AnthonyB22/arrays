@@ -1,0 +1,6 @@
+integer Array
+integer itemCounts
+Put "itemCounts[0] = Get next input" to output
+Put "itemCounts[1] = 99" to output
+Put "itemCounts[2] = itemCounts[0] *2" to output
+Put "itemCounts[2]" to output

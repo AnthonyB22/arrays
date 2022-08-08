@@ -1,0 +1,13 @@
+integer Array 
+integer i
+integer userVals
+
+i = 0
+Put "i < userVals.size" to output
+Put "userVals[i] = Get next input" to output
+Put " i = i + 1" to output
+i = 0
+Put "i < userVals.size" to output
+Put "userVals[i]" to output
+Put " " to output
+i = i + 1
